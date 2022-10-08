@@ -1,0 +1,9 @@
+[alias]
+    co = checkout
+    ca = commit --amend
+    ci = commit
+    br = branch
+    s = status
+    acm = !git add . && git commit -m
+    rh = reset --hard
+    lg = !git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit -- | less
