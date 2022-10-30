@@ -74,7 +74,11 @@ plugins=(
 	git
 	golang
 	rust
+	docker
+	docker-compose
 )
+
+setopt no_nomatch
 
 source $ZSH/oh-my-zsh.sh
 source $HOME/.bash_profile
