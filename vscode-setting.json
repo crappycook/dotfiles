@@ -1,0 +1,17 @@
+{
+    "editor.fontFamily": "Fira Code Retina, Monaco, 'Courier New', monospace",
+    "editor.lineHeight": 2,
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.lineHeight": 1.2,
+    "workbench.editor.wrapTabs": true,
+    "sql-formatter.uppercase": true,
+    "gitlens.defaultDateFormat": null,
+    "go.addTags": {
+        "options": ""
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "workbench.colorTheme": "GitHub Light",
+    "redhat.telemetry.enabled": true,
+    "window.zoomLevel": 1,
+    "terminal.integrated.inheritEnv": false
+}
